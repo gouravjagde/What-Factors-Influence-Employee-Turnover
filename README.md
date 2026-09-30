@@ -42,7 +42,7 @@ Turnover rate is turnover count divided by total employees (206.0K / 2.0M ≈ 10
 ## Tools
 
 - **Power BI Desktop** for data modeling, measures and visuals
-- **Dataset:** [Kaggle](LINK_TO_DATASET) <!-- add the dataset link -->
+- **Dataset:** [HR Dataset (Clean and Raw, 2M rows) on Kaggle](https://www.kaggle.com/datasets/rashadalaa/hr-dataset-clean-and-raw-2m-rows)
 
 ## Repository Contents
 
