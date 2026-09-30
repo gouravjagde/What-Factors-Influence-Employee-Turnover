@@ -1,4 +1,3 @@
-[employeeturnoverREADME.md](https://github.com/user-attachments/files/32835179/employeeturnoverREADME.md)
 # What Factors Influence Employee Turnover?
 
 A Power BI dashboard analyzing **2M employee records** to find where turnover is concentrated and which factors are associated with it: department, job level, performance rating, and salary.
